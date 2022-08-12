@@ -100,7 +100,7 @@ body {
   text-align: center;
 }
 
-h1 {
+h1 { 
   font-weight: normal;
   letter-spacing: 0.125rem;
   text-transform: uppercase;
